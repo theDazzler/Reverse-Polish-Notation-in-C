@@ -1,2 +1,2 @@
-This is a program written in C that takes a RPN(Reverse Polish Notation) expression add evaluates it using a stack.
+This is a program written in C that takes a RPN(Reverse Polish Notation) expression and evaluates it using a stack.
 ex. (1 2 3 + * =) would output "5" because ((2 + 3) * 1) = 5
